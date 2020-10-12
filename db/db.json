@@ -1,0 +1,35 @@
+{
+  "login":[
+    {"name":"puneet","password":"12345"}
+  ],
+  "resturant": [
+    {
+      "id": 1,
+      "name": "PizzaHut",
+      "city": "Ratlam",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "name": "BBQ",
+      "city": "Banaras",
+      "rating": "2.7",
+      "email": "BBQ@ymail.com",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "Puneri Wada",
+      "city": "Pune",
+      "rating": "3.5",
+      "email": "puneri@hotmail.com"
+    },
+    {
+      "name": "Bhaane",
+      "city": "Indore",
+      "rating": "3.9",
+      "email": "Bhanae@sonam.com",
+      "id": 6
+    }
+  ]
+}
